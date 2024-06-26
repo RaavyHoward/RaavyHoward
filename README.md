@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my DevOps portfolio<br>👯 I’m looking to collaborate on Agile DevOps teams<br>🌱 I’m currently studying to attain the AWS: Solutions Architect (Associate) Certification<br>💬 Ask me about terraform, EKS, and automations<br>⚡ Fun fact about me is that I am a content creator (gaming)
+🔭 I’m currently working on my DevOps portfolio<br>👯 I’m looking to collaborate on Agile DevOps teams<br>🌱 I am Solutions Architect: Associate Certified<br>💬 Ask me about terraform, EKS, and automations<br>⚡ Fun fact about me is that I am a content creator (gaming)
 
 
 ## 🌐 Socials:
